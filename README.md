@@ -18,7 +18,9 @@ Bun >= 1.3.11
 ---
 
 
+# 极速开始
 
+`git cone https://github.com/Devang661/win-claude-code-built.git`
 
 
 不要忘了 `cd win-claude-code-built`
